@@ -9,7 +9,7 @@
 > 
 > Currently I'm studying in Kazan Federal University, 4 grade bachelor.
 >
-> I like to use `Angular` for frontend of my websites.
+> I like to use `React` for frontend of my websites.
 > 
 > I love to learn something new everyday and also use it in my daily life.
 > 
