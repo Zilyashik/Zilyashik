@@ -1,13 +1,11 @@
 <div align="center">
   
-# 🧐 About Me <br>[![Profile views](https://gpvc.arturio.dev/Zilyashik)](#)
+#  About Me <br>[![Profile views](https://gpvc.arturio.dev/Zilyashik)](#)
 
 </div>
 
 
 > I'm Zilya. I'm web-developer, Frontend :metal:.
-> 
-> Currently I'm studying in Kazan Federal University, 4 grade bachelor.
 >
 > I like to use `Vue` for frontend of my websites.
 > 
